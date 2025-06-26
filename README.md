@@ -27,14 +27,4 @@ The objective of this analysis was to uncover patterns in pizza sales and identi
 - **Non-vegetarian pizzas** were preferred over vegetarian options
 - The **Barbeque pizza** flavour recorded the highest revenue overall
 
----
-
-## 📥 Files
-
-- 📄 `pizza_sales_performance_queries.sql` – SQL queries used for analysis
-- 📄 `Pizza_sales.csv file`
-- 📄 `Pizza_Sales_Performance_Dashboard.pdf` – PDF export of the dashboard visuals 
-
----
-**Note:** The dataset used for this analysis was for learning purposes.
 
