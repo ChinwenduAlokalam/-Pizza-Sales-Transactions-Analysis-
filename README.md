@@ -1,10 +1,10 @@
-# 🍕 Pizza Sales Performance Analysis
+## 🍕 Pizza Sales Performance Analysis
 
 This project features a detailed analysis of pizza sales performance using data visualization in **Power BI** and data extraction in **PostgreSQL**.
 
 ---
 
-## 📊 Project Overview
+### Project Overview
 
 The objective of this analysis was to uncover patterns in pizza sales and identify key revenue drivers by answering questions such as:
 - Which **pizza sizes**, **categories**, and **flavours** generated the most revenue?
@@ -12,13 +12,13 @@ The objective of this analysis was to uncover patterns in pizza sales and identi
 
 ---
 
-## 🛠️ Tools Used
+### Tools Used
 - **PostgreSQL** for querying and data preparation
 - **Power BI** for data visualization and dashboard creation
 
 ---
 
-## 📑 Key Insights
+### Key Insights
 
 - **Sales peaked between 12:00 PM and 1:00 PM**
 - **Fridays** recorded the highest number of transactions
